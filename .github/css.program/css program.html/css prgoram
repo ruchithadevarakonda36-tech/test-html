@@ -1,0 +1,25 @@
+<html>
+    <head>
+
+        <title>css progoram</title>
+    </center>
+    <style>
+    <body {
+                background-color: aqua;
+                background-image: url("img1.png");
+                background-repeat: no-repeat;
+                background-position: center;
+
+
+
+
+
+
+
+
+
+
+
+
+
+    } 
